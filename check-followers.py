@@ -67,8 +67,10 @@ follower_list = {
 	'new' : []
 }
 
+global twitter_username
+twitter_username = "0xpibbles"
 # set current_followers to the list of current followers
-follower_list['new'] = get_followers("0xpibbles") 
+follower_list['new'] = get_followers(twitter_username) 
 
 # open/create the followers.txt file
 follower_file = open(theFile, "a+")
