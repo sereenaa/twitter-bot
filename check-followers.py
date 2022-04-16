@@ -55,11 +55,11 @@ message['lost'] = messages['lost'][random.randint(0, len(messages['lost']) - 1)]
 message['new'] = messages['new'][random.randint(0, len(messages['new']) - 1)]
 
 global theFile
-theFile = "/home/pi/twitter/followers.txt"
+theFile = "followers.txt"
 
 def log(text):
 	# log text to a file. used to save the result of the program
-	logFile = open("/home/pi/twitter/followerLog.txt", "a")
+	logFile = open("followerLog.txt", "a")
 	logFile.write(text + "\n")
 	logFile.close()
 
@@ -95,7 +95,7 @@ follower_list = {
 }
 
 # set current_followers to the list of current followers
-follower_list['new'] = get_followers("notnotsez", 200) # change MaxCampman to your screen name
+follower_list['new'] = get_followers("@0xpibbles", 2000) # change MaxCampman to your screen name
 
 # open/create the followers.txt file
 follower_file = open(theFile, "a+")
@@ -169,31 +169,31 @@ def checkBoth(old_list, new_list):
 	# lists that are left are the unfollowers and followers respectively
 	return [old_list, new_list]
 
-def image_write(image, string, colour):
-	# open the image
-	img = Image.open(image)
+# def image_write(image, string, colour):
+# 	# open the image
+# 	img = Image.open(image)
 	
-	# select the font
-	font = ImageFont.truetype("/home/pi/twitter/fonts/SourceCodePro-Semibold.ttf", 20)
+# 	# select the font
+# 	font = ImageFont.truetype("/home/pi/twitter/fonts/SourceCodePro-Semibold.ttf", 20)
 	
-	# prepare to draw on to the image
-	draw = ImageDraw.Draw(img)
+# 	# prepare to draw on to the image
+# 	draw = ImageDraw.Draw(img)
 	
-	# draw the text 10 pixels across and 10 pixels down
-	draw.text(
-		(10, 10),
-		string,
-		colour,
-		font=font
-	)
-	draw = ImageDraw.Draw(img)
+# 	# draw the text 10 pixels across and 10 pixels down
+# 	draw.text(
+# 		(10, 10),
+# 		string,
+# 		colour,
+# 		font=font
+# 	)
+# 	draw = ImageDraw.Draw(img)
 	
-	image_io = StringIO.StringIO()
+# 	image_io = StringIO.StringIO()
 
-	img.save(image_io, format='PNG')
-	image_io.seek(0)
+# 	img.save(image_io, format='PNG')
+# 	image_io.seek(0)
 	
-	return image_io
+# 	return image_io
 
 # checks to see if the list of followers has actually changed at all
 if follower_list['new'] == follower_list['old']:
@@ -211,46 +211,46 @@ else:
 	
 	for unfollower in change[0]:
 		# write to the image
-		raspi_img = image_write(
-			"/home/pi/twitter/raspberry-pi.jpg",
-			"@" + unfollower + " unfollowed @MaxCampman.",
-			(255, 255, 255)
-		)
-		raspi_img.seek(0)
+		# raspi_img = image_write(
+		# 	"raspberry-pi.jpg",
+		# 	"@" + unfollower + " unfollowed @---.",
+		# 	(255, 255, 255)
+		# )
+		# raspi_img.seek(0)
 		
 		# send the unfollower a message to let them know that you are on to them
-		twitter.update_status_with_media(
-			status="@" + unfollower + " " + message['lost'],
-			media=raspi_img
-		)
+		# twitter.update_status_with_media(
+		# 	status="@" + unfollower + " " + message['lost'],
+		# 	media=raspi_img
+		# )
 		
 		# log the loss of a follower
 		log("Lost follower: " + unfollower)
 		
 		# close the image
-		raspi_img.close()
+		# raspi_img.close()
 		
 	for follower in change[1]:
 		# write to the image
-		raspi_img = image_write(
-			"/home/pi/twitter/raspberry-pi.jpg",
-			"@" + follower + " followed @MaxCampman.",
-			(255, 255, 255)
-		)
-		raspi_img.seek(0)
+		# raspi_img = image_write(
+		# 	"raspberry-pi.jpg",
+		# 	"@" + follower + " followed @---.",
+		# 	(255, 255, 255)
+		# )
+		# raspi_img.seek(0)
 		
 		
 		# send the follower a friendly welcome message
-		twitter.update_status_with_media(
-			status="@" + follower + " " + message['new'],
-			media=raspi_img
-		)
+		# twitter.update_status_with_media(
+		# 	status="@" + follower + " " + message['new'],
+		# 	media=raspi_img
+		# )
 		
 		# log the gain of a follower
 		log("New follower: " + follower)
 		
 		# close the image
-		raspi_img.close()
+		# raspi_img.close()
 	
 # finish off log
 log("\n" + "========================" + "\n\n")
