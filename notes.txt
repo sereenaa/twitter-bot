@@ -1,3 +1,5 @@
+https://github.com/ryanmcgrath/twython#authorization-url
+https://github.com/ryanmcgrath/twython#handling-the-callback 
 >>> from twython import Twython
 >>> twitter = Twython(uVAbgGZ9q5OS7EZ04zQjKNsEk, uK3Zvxc5dtmzK4ezvX6g3FHfkRSZCHbAuO75UnNtLZAZ0ho2Jd)
 Traceback (most recent call last):
