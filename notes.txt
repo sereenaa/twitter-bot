@@ -1,0 +1,21 @@
+>>> from twython import Twython
+>>> twitter = Twython(uVAbgGZ9q5OS7EZ04zQjKNsEk, uK3Zvxc5dtmzK4ezvX6g3FHfkRSZCHbAuO75UnNtLZAZ0ho2Jd)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'uVAbgGZ9q5OS7EZ04zQjKNsEk' is not defined
+>>> twitter = Twython('uVAbgGZ9q5OS7EZ04zQjKNsEk', 'uK3Zvxc5dtmzK4ezvX6g3FHfkRSZCHbAuO75UnNtLZAZ0ho2Jd') 
+>>> auth = twitter.get_authentication_tokens()          
+>>> auth
+{'oauth_token': 'rA7sAwAAAAABbipOAAABgDAPKYA', 'oauth_token_secret': 'uTOTxwwDEptOEDKHvWE6r9JGnzLhsCmF', 'oauth_callback_confirmed': 'true', 'auth_url': 'https://api.twitter.com/oauth/authenticate?oauth_token=rA7sAwAAAAABbipOAAABgDAPKYA'}
+>>> OAUTH_TOKEN = auth['oauth_token']                 
+>>> OAUTH_TOKEN_SECRET = auth['oauth_token_secret']
+>>> twitter = Twython('uVAbgGZ9q5OS7EZ04zQjKNsEk', 'uK3Zvxc5dtmzK4ezvX6g3FHfkRSZCHbAuO75UnNtLZAZ0ho2Jd',OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
+>>> final_step = twitter.get_authorized_tokens(oauth_verifier)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'oauth_verifier' is not defined
+>>> final_step = twitter.get_authorized_tokens(1020576) 
+>>> final_step['oauth_token']
+'618974114-qkkFbpFoxq8SVd2wp961iVbLtiZ1CQJNK0NSfxkf'
+>>> final_step['oauth_token_secret']
+'epTytbM7CFxq5J7mdBS26WhK8yIDdfeisi6wSG9eT6goc'

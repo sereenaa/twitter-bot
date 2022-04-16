@@ -14,10 +14,10 @@ import random
 
 global api
 api = {
-	'key'          : "API_KEY",
-	'secret'       : "API_SECRET",
-	'token'        : "ACCESS_TOKEN",
-	'token_secret' : "ACCESS_TOKEN_SECRET"
+	'key'          : "uVAbgGZ9q5OS7EZ04zQjKNsEk",
+	'secret'       : "uK3Zvxc5dtmzK4ezvX6g3FHfkRSZCHbAuO75UnNtLZAZ0ho2Jd",
+	'token'        : "618974114-qkkFbpFoxq8SVd2wp961iVbLtiZ1CQJNK0NSfxkf",
+	'token_secret' : "epTytbM7CFxq5J7mdBS26WhK8yIDdfeisi6wSG9eT6goc"
 }
 
 global twitter
