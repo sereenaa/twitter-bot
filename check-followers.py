@@ -37,11 +37,11 @@ twitter = Twython(
 
 
 global theFile
-theFile = "followers.txt"
+theFile = "data/followers.txt"
 
 def log(text):
 	# log text to a file. used to save the result of the program
-	logFile = open("followerLog.txt", "a")
+	logFile = open("data/followerLog.txt", "a")
 	logFile.write(text + "\n")
 	logFile.close()
 
