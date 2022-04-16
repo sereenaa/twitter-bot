@@ -28,31 +28,7 @@ twitter = Twython(
 	api['token_secret']
 )
 
-# let's make things fun by using randomly selected messages.
-messages = {
-	'lost' : [
-		"You unfollowed me. My @Raspberry_Pi noticed.",
-		"You unfollowed me. I don't appreciate that.",
-		"Why did you unfollow me? Please fill in this survey: https://onedrive.live.com/redir?page=survey&resid=643D972B6E5A6AE7!8438&authkey=!ACGh2UHjtuL-xvk&ithint=file%2cxlsx"
-	],
-	'new' : [
-		"Thanks for following me. - This is an automated message sent from my @Raspberry_Pi.",
-		"Thanks for following me. Yes, I did write a program to send this tweet.",
-		"Thanks for following me. Check out the program that sent this tweet at: https://gist.github.com/MaxCampman/0a6e92911c206bb72232"
-	]
-}
 
-global message
-message = {
-	'lost' : "You unfollowed me. My @Raspberry_Pi noticed.",
-	'new'  : "Thanks for following me. - This is an automated message sent from my @Raspberry_Pi."
-}
-
-
-# select the random message for 'lost' and 'new'.
-random.seed()
-message['lost'] = messages['lost'][random.randint(0, len(messages['lost']) - 1)]
-message['new'] = messages['new'][random.randint(0, len(messages['new']) - 1)]
 
 global theFile
 theFile = "followers.txt"
@@ -166,31 +142,6 @@ def checkBoth(old_list, new_list):
 	# lists that are left are the unfollowers and followers respectively
 	return [old_list, new_list]
 
-# def image_write(image, string, colour):
-# 	# open the image
-# 	img = Image.open(image)
-	
-# 	# select the font
-# 	font = ImageFont.truetype("/home/pi/twitter/fonts/SourceCodePro-Semibold.ttf", 20)
-	
-# 	# prepare to draw on to the image
-# 	draw = ImageDraw.Draw(img)
-	
-# 	# draw the text 10 pixels across and 10 pixels down
-# 	draw.text(
-# 		(10, 10),
-# 		string,
-# 		colour,
-# 		font=font
-# 	)
-# 	draw = ImageDraw.Draw(img)
-	
-# 	image_io = StringIO.StringIO()
-
-# 	img.save(image_io, format='PNG')
-# 	image_io.seek(0)
-	
-# 	return image_io
 
 # checks to see if the list of followers has actually changed at all
 if follower_list['new'] == follower_list['old']:
@@ -207,47 +158,17 @@ else:
 	print(str(change))
 	
 	for unfollower in change[0]:
-		# write to the image
-		# raspi_img = image_write(
-		# 	"raspberry-pi.jpg",
-		# 	"@" + unfollower + " unfollowed @---.",
-		# 	(255, 255, 255)
-		# )
-		# raspi_img.seek(0)
-		
-		# send the unfollower a message to let them know that you are on to them
-		# twitter.update_status_with_media(
-		# 	status="@" + unfollower + " " + message['lost'],
-		# 	media=raspi_img
-		# )
 		
 		# log the loss of a follower
 		log("Lost follower: " + unfollower)
 		
-		# close the image
-		# raspi_img.close()
 		
 	for follower in change[1]:
-		# write to the image
-		# raspi_img = image_write(
-		# 	"raspberry-pi.jpg",
-		# 	"@" + follower + " followed @---.",
-		# 	(255, 255, 255)
-		# )
-		# raspi_img.seek(0)
 		
-		
-		# send the follower a friendly welcome message
-		# twitter.update_status_with_media(
-		# 	status="@" + follower + " " + message['new'],
-		# 	media=raspi_img
-		# )
 		
 		# log the gain of a follower
 		log("New follower: " + follower)
 		
-		# close the image
-		# raspi_img.close()
 	
 # finish off log
 log("\n" + "========================" + "\n\n")
