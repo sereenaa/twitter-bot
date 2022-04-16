@@ -63,25 +63,22 @@ def log(text):
 	logFile.write(text + "\n")
 	logFile.close()
 
-def get_followers(SCREEN_NAME, COUNT):
-	next_cursor = -1
+def get_followers(SCREEN_NAME):
 	
 	# get the list of twitter followers
-	twitter_followers = twitter.get_followers_list(
-		screen_name=SCREEN_NAME,
-		count=COUNT,
-		cursor=next_cursor
+	twitter_followers = twitter.get_followers_ids(
+		screen_name=SCREEN_NAME
 	)
 	
 	# create local variable followers and assign it to an empty array
 	followers = []
 	
 	# get the list of followers and put them into the followers array
-	for follower in twitter_followers["users"]:
+	for x in twitter_followers["ids"]:
+		data = twitter.show_user(user_id=x)
 		followers.append(
-			follower["screen_name"]
+			data["screen_name"]
 		)
-		next_cursor = twitter_followers["next_cursor"]
 	
 	# return the array of followers
 	return followers
@@ -95,7 +92,7 @@ follower_list = {
 }
 
 # set current_followers to the list of current followers
-follower_list['new'] = get_followers("@0xpibbles", 2000) # change MaxCampman to your screen name
+follower_list['new'] = get_followers("0xpibbles") 
 
 # open/create the followers.txt file
 follower_file = open(theFile, "a+")
