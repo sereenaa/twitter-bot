@@ -88,7 +88,9 @@ if os.path.isfile(theFile) == False or os.stat(theFile)[6] == 0:
 	follower_file = open(theFile, "r+")
 
 # take the information from the followers.txt file and put it into the list follower_list['old']
-follower_list['old'] = follower_file.readlines()
+#follower_list['old'] = follower_file.readlines()
+follower_file.seek(0)
+follower_list["old"] = follower_file.readlines()
 
 x = len(follower_list['old'])
 
