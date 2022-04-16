@@ -41,9 +41,13 @@ theFile = "followers/%s_followers.txt" % twitter_username
 
 def log(text):
 	# log text to a file. used to save the result of the program
-	logFile = open("followers/%s_followerLog.txt" % twitter_username, "a")
-	logFile.write(text + "\n")
-	logFile.close()
+	logFile1 = open("followers/%s_followerLog.txt" % twitter_username, "a")
+	logFile1.write(text + "\n")
+	logFile1.close()
+	
+	logFile2 = open("followers/followerLog.txt", "a")
+	logFile2.write(text + "\n")
+	logFile2.close()
 
 def get_followers(SCREEN_NAME):
 	
@@ -170,14 +174,14 @@ else:
 	for unfollower in change[0]:
 		
 		# log the loss of a follower
-		log("Lost follower: " + unfollower)
+		log(twitter_username + " lost follower: " + unfollower)
 		
 		
 	for follower in change[1]:
 		
 		
 		# log the gain of a follower
-		log("New follower: " + follower)
+		log(twitter_username + " new follower: " + follower)
 		
 	
 # finish off log
