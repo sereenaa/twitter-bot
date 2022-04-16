@@ -11,6 +11,12 @@ import datetime
 from io import StringIO
 from twython import Twython
 import random
+import argparse
+
+parser = argparse.ArgumentParser(description = "Parse the arguments", formatter_class = argparse.ArgumentDefaultsHelpFormatter)
+parser.add_argument("-u", "--twitter_username", required=True, help = "Twitter Username")
+args = parser.parse_args()
+twitter_username = args.twitter_username
 
 global api
 api = {
@@ -67,8 +73,8 @@ follower_list = {
 	'new' : []
 }
 
-global twitter_username
-twitter_username = "0xpibbles"
+#global twitter_username
+#twitter_username = "0xpibbles"
 # set current_followers to the list of current followers
 follower_list['new'] = get_followers(twitter_username) 
 
