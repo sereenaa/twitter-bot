@@ -7,7 +7,6 @@ PenroseDeFi
 GodsofAsgardP2E
 sweetheater
 Anysniper_
-rovercrc
 OnChainWizard
 hasufl
 grape_finance
@@ -45,7 +44,6 @@ CrossChainAlex
 safulibero
 WolfOfAvax_
 finance_medusa
-Aphro_Finance
 HighPointStake
 AURAuroraFi
 PaladinArmy_
@@ -112,7 +110,7 @@ DeFi_Diligence
 RidesFinance
 smart_nodes
 Gem_Nodes
-Alpha_Nodes
+AlphaShares
 cubo_money
 invest_answers
 MEVprotection

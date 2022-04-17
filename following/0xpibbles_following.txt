@@ -1,3 +1,6 @@
+SSDefendersNFT
+0xDith
+VladTheRuler
 KriosFinance
 HalloweenAurora
 Imaginarium_SOL
@@ -60,7 +63,6 @@ titanoforks
 Earn_Ville
 GoldMintFinance
 AstroYield
-bomberbabesio
 sneakerheadsoff
 satorimoney
 react_dao
