@@ -1,6 +1,6 @@
+B_F_Party
 contexiafinance
 DazaiCrypto
-0xRacerAlt
 Smokin_Gorilla
 Starbirdsnft
 milkcowftm
@@ -113,7 +113,6 @@ AquosFinance
 PlayAscenders
 maticnews_com
 tsunami_finance
-pragma_money
 SixCapitalCo
 andronodes
 ItsMeKayos
