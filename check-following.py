@@ -6,19 +6,12 @@ import time
 import datetime
 from twython import Twython
 import argparse
+from keys import api
 
 parser = argparse.ArgumentParser(description = "Parse the arguments", formatter_class = argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument("-u", "--twitter_username", required=True, help = "Twitter Username")
 args = parser.parse_args()
 twitter_username = args.twitter_username
-
-global api
-api = {
-	'key'          : "uVAbgGZ9q5OS7EZ04zQjKNsEk",
-	'secret'       : "uK3Zvxc5dtmzK4ezvX6g3FHfkRSZCHbAuO75UnNtLZAZ0ho2Jd",
-	'token'        : "618974114-qkkFbpFoxq8SVd2wp961iVbLtiZ1CQJNK0NSfxkf",
-	'token_secret' : "epTytbM7CFxq5J7mdBS26WhK8yIDdfeisi6wSG9eT6goc"
-}
 
 global twitter
 twitter = Twython(

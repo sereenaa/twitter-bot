@@ -197,7 +197,7 @@ defi_airdrops
 passytee
 ameensol
 WormholeOracle
-AzoshiSama
+0xZami
 amadeobrands
 CroissantEth
 cryptouf
