@@ -2,15 +2,9 @@
 # -*- coding: utf-8 -*-
 #import os.path
 import os
-import PIL
-from PIL import ImageFont
-from PIL import Image
-from PIL import ImageDraw
 import time
 import datetime
-from io import StringIO
 from twython import Twython
-import random
 import argparse
 
 parser = argparse.ArgumentParser(description = "Parse the arguments", formatter_class = argparse.ArgumentDefaultsHelpFormatter)

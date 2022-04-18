@@ -1,3 +1,4 @@
+moonbirds_xyz
 DeFi_Made_Here
 SpearFinance_io
 nellimkopi
@@ -52,7 +53,6 @@ caesarfinance_
 Leviathan_pro
 NOFBSC
 heroes8villains
-TrapezNode
 BoundlessDCF
 OverOverpowered
 ringfiprotocol
