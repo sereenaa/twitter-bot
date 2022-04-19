@@ -1,10 +1,14 @@
+ReefFishesNFT
+DeltaFinance4
+villagesfi
+VoidToken_fi
+MousInDaHous
 B_F_Party
 contexiafinance
 DazaiCrypto
 Smokin_Gorilla
 Starbirdsnft
 milkcowftm
-TokonamiNFT
 SSDefendersNFT
 0xDith
 VladTheRuler
@@ -178,7 +182,7 @@ CronosNode
 JiraiyaReal
 gusba89
 OnefiExchange
-smart_nodes
+smartfinanceio
 fountainprot
 VendorFi
 HyperiumDAO
@@ -280,7 +284,6 @@ ____trudy____
 DAOEmeralds
 Nearity_org
 Play_Lore
-OasisStarter
 crypto_farmbets
 lbtwtweets
 teamnearster

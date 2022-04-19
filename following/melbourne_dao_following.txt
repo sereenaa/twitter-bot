@@ -1,3 +1,4 @@
+4dotAlerts
 moonbirds_xyz
 DeFi_Made_Here
 SpearFinance_io
@@ -31,7 +32,7 @@ THORmaximalist
 Zetoveraleenzet
 its_compounding
 HiNeighbours
-mike_10jqka
+ethmikee
 MejiasDev
 buballer02
 RagnarokMeta
@@ -108,7 +109,7 @@ NodeSenpai
 AlienNodes
 DeFi_Diligence
 RidesFinance
-smart_nodes
+smartfinanceio
 Gem_Nodes
 AlphaShares
 cubo_money
@@ -187,7 +188,6 @@ ArcToken
 dairydotmoney
 SpookyverseFi
 jomaoppa
-IcecreamFinance
 PabloTreff
 MIMiverseAVAX
 cattyverse

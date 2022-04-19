@@ -30,3 +30,16 @@ melbourne_dao followed: moonbirds_xyz
 ========================
 
 
+2022/04/19 10:06:05
+========================
+
+melbourne_dao unfollowed: mike_10jqka
+melbourne_dao unfollowed: smart_nodes
+melbourne_dao unfollowed: IcecreamFinance
+melbourne_dao followed: 4dotAlerts
+melbourne_dao followed: ethmikee
+melbourne_dao followed: smartfinanceio
+
+========================
+
+

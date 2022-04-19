@@ -3,7 +3,6 @@
 #import os.path
 import os
 import time
-import datetime
 from twython import Twython
 import argparse
 from keys import api
