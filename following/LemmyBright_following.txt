@@ -1,3 +1,6 @@
+Raven_DeFi
+MyRocketGlobal
+kami_protocol
 TegridyMiner
 HuchaMoney
 milkcowftm
@@ -25,7 +28,7 @@ TheLaboratoryIO
 ape_zero
 draamy_protocol
 Monkey_Finance_
-ArabianSaitama
+GreenSanjiINU
 LostSamurais
 redactedcartel
 0xMaharishi
@@ -142,7 +145,6 @@ mnodefinance
 onlyupc
 OsirisNodes
 cubicfinance
-AvaxStaker
 LoadedNodes
 JurassicNodes
 PotionNodes

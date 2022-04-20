@@ -1,3 +1,6 @@
+grape_finance
+0xLosingMoney
+lendscape_so
 wyatt_noise
 cryptogooonn
 Quix_xyz
@@ -113,7 +116,6 @@ Louverture_fi
 FrogPondClub
 stakedqueen
 Powernodes_
-Web3_Maddy
 TheCoffeeBlock
 Moarvolume
 pangolindex

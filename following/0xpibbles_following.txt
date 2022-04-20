@@ -1,3 +1,10 @@
+russnft
+UnlocksCalendar
+kami_protocol
+wearemisfitsnft
+Voxels_NFT
+titanmarkets_
+Thefruitparty
 ReefFishesNFT
 DeltaFinance4
 villagesfi
@@ -57,7 +64,6 @@ AuraFinance
 100DaysVentures
 MDB_DeFi
 mina_mdb
-KevinTheMonkey
 TombChain
 neonlabsorg
 MedusaProtocol
@@ -108,7 +114,6 @@ antybank
 RhodesFinance
 Monkey_Finance_
 MagusNodes
-finance_medusa
 AtlasIsMe
 FinanceEris
 avatanetwork
@@ -187,7 +192,7 @@ fountainprot
 VendorFi
 HyperiumDAO
 OasisFlowersNFT
-orumdollar
+orumprotocol
 NearGamesGuild
 HarmonyOneDaily
 WagieDao
@@ -247,7 +252,6 @@ GoodAsFuuck
 datality
 MirageMarket
 PunksZk
-BlueBitFinance
 YakuOne
 MoonFarmers
 aurigami_PLY

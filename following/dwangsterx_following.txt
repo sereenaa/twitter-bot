@@ -1,3 +1,5 @@
+Voxels_NFT
+Philneeds
 0xBookland
 Sk00ds
 GKwai2
@@ -23,7 +25,6 @@ gh0stlygh0sts
 jordanalexmeyer
 porterfinance_
 PaikCapital
-metawizardsnft
 CicadasNFT
 Crypto_McKenna
 SBF_FTX
@@ -75,7 +76,7 @@ sarthak_guleria
 TreehouseFi
 PotionNodes
 CryptojiPunk
-orumdollar
+orumprotocol
 FarmlandGame
 risedle
 SmolAge_NFT
