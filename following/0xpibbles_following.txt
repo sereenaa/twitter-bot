@@ -1,10 +1,21 @@
+shinsengokuNFT
+kuro_koni
+tigerbobNFT
+DegenDisorder
+MythosFi
+NovatoFinancial
+WildAbduction
+Daydreams_NFT
+spring_nodes
+TactfulTimes
+FreewayFi
 russnft
 UnlocksCalendar
 kami_protocol
 wearemisfitsnft
 Voxels_NFT
 titanmarkets_
-Thefruitparty
+thefruitparty
 ReefFishesNFT
 DeltaFinance4
 villagesfi
@@ -84,7 +95,7 @@ sneakerheadsoff
 satorimoney
 react_dao
 CupidonFinance
-Acropolis_Fi
+Capilem_Crypto
 chutoro_au
 Rex416_NFT
 guestlistedclub
@@ -104,7 +115,6 @@ IslandNodes
 Oracle_Finance
 GKwai2
 Sk00ds
-ElevateDeFi
 projectPXN
 DeFIRE_org
 WolfStreetAvax
@@ -166,7 +176,6 @@ OsirisNodes
 cryptonaut101
 MinerboxDefi
 theDarkDAO
-EnsoExchange_
 Purpyblu667
 lordofthenodes
 RuneguardTCG
@@ -237,7 +246,7 @@ RosartNFT
 CelestiaOrg
 legendsofayami
 exverse_io
-tomeslaa
+0x_ymore
 SwarmTeddies
 PulgaCrypto
 Paradox_DAO

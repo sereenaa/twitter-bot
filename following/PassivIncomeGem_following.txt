@@ -67,7 +67,7 @@ PendragonFarm
 OBSilence
 Titanium_Nodes
 defi_darling
-safuuprotocol__
+TitanoFiance
 IslandNodes
 PlanetNodes
 SolarNodes_
@@ -110,7 +110,6 @@ ProjectDarkEye
 NebulaNodes
 FirebirdsNFT
 policethiefnft
-EclipseFinance_
 Nitro_HQ
 Doom__Finance
 ElTacoNode
@@ -163,7 +162,7 @@ CryptoaaService
 Huntersavax
 JiraiyaReal
 CryptoMiningLLC
-Army_Node
+KryptoYoungster
 CryptoCrocoFR
 TheNodeTickets
 strongdragonnft
