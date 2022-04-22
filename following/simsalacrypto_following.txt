@@ -1,3 +1,4 @@
+WatcherGuru
 jb02409045
 T3chConnoisseur
 0xTenma
@@ -72,8 +73,6 @@ QuickswapDEX
 stablekwon
 0xPolygon
 gsg0127
-0xSifu
-danielesesta
 ethereum
 VitalikButerin
 Web3holy

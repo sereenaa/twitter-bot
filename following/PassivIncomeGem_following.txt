@@ -34,7 +34,6 @@ PrismNodes
 AssEfectivo
 Huzi_2000
 kt10_official
-Skadi_Finance
 Athena_Finance_
 Copzia
 NodeSenpai
@@ -164,10 +163,10 @@ JiraiyaReal
 CryptoMiningLLC
 KryptoYoungster
 CryptoCrocoFR
-TheNodeTickets
+CryptoTicketNFT
 strongdragonnft
 Banccio
-Milaye3_
+Aerdoteth
 WANDinvestments
 youtopianft
 SkullsPrime
