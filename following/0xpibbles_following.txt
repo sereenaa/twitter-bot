@@ -1,7 +1,14 @@
+SuperBountyInc
+FlurAlpha
+dannymanhi
+plutusnodes
+ToriZero_REDLAB
+DegenHunterSOL
+capsule_house
+gamma_protocol
 play5x5gaming
 PlanetSlyNFT
 TheLilFrens
-infinityprot_
 ThievesNFTs
 collectiverse_
 groprotocol
@@ -23,8 +30,7 @@ FreewayFi
 russnft
 UnlocksCalendar
 kami_protocol
-wearemisfitsnft
-Voxels_NFT
+WeareMisfitsnft
 titanmarkets_
 thefruitparty
 ReefFishesNFT
@@ -36,13 +42,11 @@ B_F_Party
 contexiafinance
 DazaiCrypto
 Smokin_Gorilla
-Starbirdsnft
 milkcowftm
 SSDefendersNFT
 0xDith
 VladTheRuler
 KriosFinance
-HalloweenAurora
 Imaginarium_SOL
 PenroseDeFi
 NovaDAOFinance
@@ -101,7 +105,6 @@ gh0stlygh0sts
 titanoforks
 Earn_Ville
 GoldMintFinance
-AstroYield
 sneakerheadsoff
 satorimoney
 react_dao
@@ -220,7 +223,7 @@ GradientFinance
 NyxiesStudio
 moonrobotsgame
 PlasmaSwap
-CryptojiPunk
+HiddenRobot_xyz
 DopexNFT
 OasisNetworkNFT
 AppBlockchain
@@ -275,7 +278,6 @@ PunksZk
 YakuOne
 MoonFarmers
 aurigami_PLY
-lavanodes
 PlayCrabada
 FinanceHeo
 Brilliant_Fin

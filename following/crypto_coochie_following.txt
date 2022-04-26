@@ -1,7 +1,9 @@
+SelectedInvests
+spellcrypto
 LegitTheBestBru
 cyrpto_bitlord
 grape_finance
-EquinoxCRO
+EquinoxMoney
 DarkForestDeFi
 crypto_bitlord7
 EverburnToken
@@ -210,7 +212,6 @@ CreditPrinter
 Felix_Exchange
 ragnarlabs
 Govanisher
-IcyMoneyFi
 crypto_klay
 _iammarkc
 ProjectEuropa_

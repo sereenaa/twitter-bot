@@ -1,3 +1,5 @@
+0xPoorMen
+FiefLibrary
 PassDreamTeam
 ShinesNFT
 multifarmer
@@ -29,7 +31,6 @@ edorceNFT
 EverburnToken
 lin222x
 Chopinger
-Skadi_Finance
 MoneyBagsNFT
 TheDeFimons
 AdamantiumVip
@@ -53,7 +54,7 @@ circles_nft
 owloper
 thesmashheroes
 DGNRafalovic
-NodeSquidsNFT
+SlamminCrypto
 finance_bakery
 AarenaP2e
 HomerSigma
@@ -64,14 +65,14 @@ Atoll_Finance
 Cloud_Financee
 JulienROMAN13
 bamboo_fi
-safuuprotocol__
+Odin_Financial
 HorizonCall
 RainShipNFT
 AvaxSolana
 Avaxfamily
 PortalsFinance
 mnodefinance
-DailyAvaxGA
+0xMay_Cody
 m1gu3lang
 rubymineavax
 StreetBrawlerz
@@ -102,7 +103,7 @@ HyruleFarm
 PirateNodes
 BoredFrenchieIC
 wefrooties
-space___club
+NftStonerPuff
 TheSymbolDAO
 HandInASock_
 FujiPenguins
@@ -137,10 +138,9 @@ ZombiezSOL
 DAOApesClub
 TheCrazeCrypto
 DopeDuckClub
-YokedYetisNFT
+YokedYetis
 ExclusiveSharks
 ElectroExtant
-SolGiverNFT
 nftjakey
 StormSol_
 TheSolanaBoss
@@ -174,7 +174,7 @@ HauntedSpace_
 FeggzNFT
 Yellownauts_nft
 trippie2022
-swsloths
+3dmoonbirds
 SweetSquadNFT
 pizzabillion
 TrexSapiensOrd
@@ -187,7 +187,6 @@ BMFnft
 heroes_vale
 war_node
 boredapeluxclub
-C00ksCarl
 HeftyHeroes
 ReigningBearsLC
 DrWatsonNFT
@@ -212,7 +211,7 @@ Degensolnft1
 ArchieNeko_
 XODEXoffical
 PlatanasoToken
-ShitFaceInu
+OnlyGemsFinance
 FINSToken
 ShibaTitans
 playumm
@@ -362,7 +361,7 @@ AvaxVampiresNFT
 AvaxGhost
 grandmafrogsNFT
 AvaxBridgeApes
-joepegnft
+joepegsnft
 InoWorlds
 KingPadco
 DrakosUnchained
@@ -418,7 +417,6 @@ PxelFriends
 Luna___Vale
 nursesfactory
 PromoterxNFT
-ThelmaNFTs
 realBranNFT
 Yeek_eth
 SOLFree4u
@@ -500,7 +498,6 @@ nft_blues
 illowlsNFT
 dinostopianft
 NodeBearsNFT
-univmoney
 YieldHuntAVAX
 EarnElexir
 PizzadotGame
@@ -606,7 +603,6 @@ ImperiumEmpires
 cryptoneo17
 LandsOfWizards
 freebnbfree
-MarissaCrypto
 kuyawat
 gkhosts
 AreumPromotes

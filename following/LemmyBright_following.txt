@@ -1,7 +1,10 @@
+DLGOMTrill
+Shiba2GO_
+ArtemisXFinance
 Raven_DeFi
 MyRocketGlobal
 kami_protocol
-TegridyMiner
+TheFarmingCo
 HuchaMoney
 milkcowftm
 nirvana_fi
@@ -19,7 +22,6 @@ theMeta_Angels
 ZinguinFi
 RhinoFinance_
 jamiekingston
-DaoSpartan
 astar_gems
 Worm_Finance
 GrandmasterDeFi
@@ -28,7 +30,7 @@ TheLaboratoryIO
 ape_zero
 draamy_protocol
 Monkey_Finance_
-GreenSanjiINU
+AnimalsDao
 LostSamurais
 redactedcartel
 0xMaharishi
@@ -53,7 +55,6 @@ Coachkcrypto
 LiberoTitano
 BMilk_omeda
 TheStonedFrogs
-Skadi_Finance
 SafuTitano
 playeverseed
 oozefinance
@@ -63,7 +64,7 @@ realmilkyswap
 HiNeighbours
 MuesliSwapTeam
 Finance_Griffin
-NodeSenpai
+0xZenpai
 MEVprotection
 RhodesFinance
 Earn_Ville
@@ -80,7 +81,7 @@ lydexprotocol
 0xblockfi
 Crypto_Penn
 AURAuroraFi
-safuuprotocol__
+Odin_Financial
 obsidianfi
 stakewithagora
 PendragonFarm
@@ -130,13 +131,13 @@ steakhut_fi
 ATO_Finance
 AstroNodesAvax
 Beans_MagicFarm
-TheNodeTickets
+CryptoTicketNFT
 Crypto_Maximal
 dogioh
 Mfernodes
 MinerboxDefi
 Petroleum_Defi
-nodekingdom
+cryptokingdom07
 BananaApeGarden
 nodes_ocean
 bunny_finance2
@@ -153,10 +154,9 @@ RugDocIO
 MoonSpaceDAO
 pragma_money
 PaladinArmy_
-DemeterOnAvax
+sermaverickk
 AvaxDegenFi
 Pikachryu
-EricSchmidtMeta
 Emerald_Nodes
 CryptoBoltx
 prellr3
