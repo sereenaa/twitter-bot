@@ -1,8 +1,12 @@
+AlkimiExchange
+satoshiisland
+TheDefiShield
+0xLosingMoney
+Token_Sniffer
 BroLeonAus
 layer3xyz
 StepApp_
 punk9059
-eightbit
 Aleph__Zero
 EcosseCEL1
 Cov_duk
@@ -128,6 +132,7 @@ Prometheus_DEFI
 1PercentNodes
 0xZenpai
 AlienNodes
+starnodes
 DeFi_Diligence
 RidesFinance
 smartfinanceio
@@ -141,7 +146,6 @@ visusdao
 BentoBoiNFT
 andr3w
 farokh
-3LandersNFT
 kaleverseETH
 Sins_Finance
 AzukiOfficial

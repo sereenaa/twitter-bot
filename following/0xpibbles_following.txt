@@ -107,7 +107,6 @@ DeFirmFinance
 gh0stlygh0sts
 titanoforks
 Earn_Ville
-GoldMintFinance
 sneakerheadsoff
 satorimoney
 react_dao
