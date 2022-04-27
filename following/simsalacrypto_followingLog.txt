@@ -47,3 +47,12 @@ simsalacrypto followed: 0xZenpai
 ========================
 
 
+2022/04/27 14:58:08
+========================
+
+simsalacrypto unfollowed: HighPointStake
+simsalacrypto followed: TheDefiShield
+
+========================
+
+

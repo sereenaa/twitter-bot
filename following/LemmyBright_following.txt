@@ -1,5 +1,8 @@
+KamaDeFi
+HyperiumDAO
+PicksPassport
 DLGOMTrill
-Shiba2GO_
+Shib2GO
 ArtemisXFinance
 Raven_DeFi
 MyRocketGlobal
@@ -137,7 +140,7 @@ dogioh
 Mfernodes
 MinerboxDefi
 Petroleum_Defi
-cryptokingdom07
+CryptoKingdom07
 BananaApeGarden
 nodes_ocean
 bunny_finance2
@@ -173,7 +176,6 @@ cryptosushimoon
 subzeroplus
 YadaCrypto
 HarmonyNodes
-HighPointStake
 PlayAscenders
 AlphaShares
 Ekaaa

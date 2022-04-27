@@ -36,12 +36,11 @@ Huzi_2000
 kt10_official
 Athena_Finance_
 Copzia
-NodeSenpai
+0xZenpai
 0xDucker
 VeNodesOfficial
 sERC20Official
 Society_Koala
-HighPointStake
 WSFApp
 domiciIefixe102
 AriaToken
@@ -66,7 +65,7 @@ PendragonFarm
 OBSilence
 Titanium_Nodes
 defi_darling
-TitanoFiance
+Odin_Financial
 IslandNodes
 PlanetNodes
 SolarNodes_
@@ -96,7 +95,6 @@ mnodefinance
 Pudotgames
 staderlabs
 DarkForestDeFi
-AsteroidFinance
 minimetamonNFT
 Xodusfinance
 AssureDefi
@@ -111,7 +109,7 @@ FirebirdsNFT
 policethiefnft
 Nitro_HQ
 Doom__Finance
-ElTacoNode
+ElTacoFinance
 MagusNodes
 storm_nodes
 DRIPcommunity
@@ -139,9 +137,7 @@ AvaxMachina
 RidesFinance
 MelissaChainz
 grndtheftbacon
-IcyMoneyFi
 Pikachryu
-DragonEggGame
 lavanodes
 etpower2014
 BullishNodeNFT
@@ -161,12 +157,12 @@ CryptoaaService
 Huntersavax
 JiraiyaReal
 CryptoMiningLLC
-KryptoYoungster
+MasonDefi
 CryptoCrocoFR
 CryptoTicketNFT
 strongdragonnft
 Banccio
-Aerdoteth
+Aerewdoteth
 WANDinvestments
 youtopianft
 SkullsPrime
@@ -290,7 +286,6 @@ SpookyBearsNFT
 _ThorFinancial
 AVAXWARRIORS
 redlight
-univmoney
 AvaxWolfGame
 1SpartanCapital
 BambooSyndicate

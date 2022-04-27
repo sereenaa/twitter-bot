@@ -1,3 +1,6 @@
+9gagceo
+memeland
+Slothopia
 SuperBountyInc
 FlurAlpha
 dannymanhi
@@ -173,7 +176,6 @@ MetaZork_nft
 avax_cryptohunt
 KreskoFi
 Queeenie_beee
-HighPointStake
 hera_money
 PassivIncomeGem
 lionel_tlse
@@ -186,7 +188,6 @@ ivantoots
 nearbetta
 AlphaLeadDao
 LoadedNodes
-OsirisNodes
 cryptonaut101
 MinerboxDefi
 theDarkDAO

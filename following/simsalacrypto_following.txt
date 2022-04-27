@@ -1,3 +1,4 @@
+TheDefiShield
 paer0x
 WatcherGuru
 jb02409045
@@ -44,7 +45,6 @@ cosmos
 MetisDAO
 bantg
 dcfgod
-HighPointStake
 AlchemixFi
 solidlyexchange
 SphereDeFi
