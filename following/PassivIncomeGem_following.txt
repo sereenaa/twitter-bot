@@ -4,7 +4,7 @@ Crypt0Nodes
 GoEtherun
 GenesisNFT_ETH
 hamsterzbc
-IsisMoney_
+dqyuhishyiuqhyu
 aloramoney
 SANININU
 medusafinance_
@@ -68,7 +68,7 @@ defi_darling
 Odin_Financial
 IslandNodes
 PlanetNodes
-SolarNodes_
+SolarProtocol_
 RugDocIO
 economiserly
 PassiveJunkies
@@ -89,7 +89,7 @@ bamboo_fi
 PirateNodes
 UpfireHQ
 Mrr_Apai
-Exy_Nodes
+Exy_Crypto
 Goldensocnodes
 mnodefinance
 Pudotgames
@@ -162,7 +162,7 @@ CryptoCrocoFR
 CryptoTicketNFT
 strongdragonnft
 Banccio
-Aerewdoteth
+Ikley34
 WANDinvestments
 youtopianft
 SkullsPrime
@@ -192,7 +192,7 @@ AlphaShares
 Avasharks
 BigMooseCrypto
 Sins_Finance
-ZeusNode
+ZeusFinanceOrg
 MetabearsNFT_
 AsgardianBulls
 AvaxDegenFi
@@ -218,6 +218,7 @@ Louznft
 fbombnft
 BrainDanceNFT
 Pandaroll_nft
+starnodes
 bbvsea
 TimepieceApes
 PLAYA3ULL
@@ -284,7 +285,7 @@ VisusFi
 OMEGA_8888
 SpookyBearsNFT
 _ThorFinancial
-AVAXWARRIORS
+WARRIORS__XYZ
 redlight
 AvaxWolfGame
 1SpartanCapital
