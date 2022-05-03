@@ -90,7 +90,7 @@ PirateNodes
 UpfireHQ
 Mrr_Apai
 Exy_Crypto
-Goldensocnodes
+gldnscty
 mnodefinance
 Pudotgames
 staderlabs
@@ -162,7 +162,7 @@ CryptoCrocoFR
 CryptoTicketNFT
 strongdragonnft
 Banccio
-Ikley34
+geyt560
 WANDinvestments
 youtopianft
 SkullsPrime

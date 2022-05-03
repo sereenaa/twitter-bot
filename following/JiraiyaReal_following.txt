@@ -1,3 +1,6 @@
+rune_price
+rLoopDAO
+NicoleBehnam
 NFTYKEYS
 KronosDAO_fi
 yieldnodes
@@ -152,13 +155,14 @@ Louverture_fi
 FrogPondClub
 stakedqueen
 Powernodes_
+Web3_Maddy
 TheCoffeeBlock
 Moarvolume
 pangolindex
 KERRTRADE
 mattahorn27
 TinFoilFrog420
-FrogPondDegen
+0xDeployer
 0xHugela
 Crypto8Fi
 DeFi_Goose

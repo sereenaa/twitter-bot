@@ -1,3 +1,4 @@
+ForeverBots
 jerrehtan
 optimismPBC
 JurasickPets
@@ -142,7 +143,7 @@ ethassa
 takoa__
 MuriNFT
 ethersole
-haustwts
+hausconnect
 LibertasDao
 SquishiverseNFT
 inversebrah

@@ -1,3 +1,20 @@
+JurasickPets
+AtomoKidsPJB
+copiumwars
+byAdvent
+UMAprotocol
+0xCovenant
+visionfiapp
+XcademyOfficial
+fabrik
+MuriNFT
+esmpeth
+Japanese_BAPES
+ComposableFin
+Lendscape_so
+AppCalo
+GetKicks_io
+cryptogems555
 dreamnbsc
 vividcojp
 The_Defi_Bum
@@ -18,7 +35,6 @@ memeland
 Slothopia
 SuperBountyInc
 dannymanhi
-plutusnodes
 ToriZero_REDLAB
 DegenHunterSOL
 capsule_house
@@ -57,7 +73,7 @@ MousInDaHous
 B_F_Party
 contexiafinance
 DazaiCrypto
-Metas_Dragons
+Meta_DragonsCRO
 milkcowftm
 SSDefendersNFT
 0xDith
@@ -101,7 +117,6 @@ CapitalVendetta
 ArknVentures
 RebaseFinance
 AuraFinance
-100DaysVentures
 MDB_DeFi
 mina_mdb
 TombChain
