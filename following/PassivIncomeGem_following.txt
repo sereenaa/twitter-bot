@@ -25,7 +25,7 @@ NavysealGame
 thecryptodawg
 Tribal_Squads
 Nics_714
-spring_nodes
+spring_gamefi
 SphereDeFi
 toastpunk
 HangryHippoNFT
@@ -125,7 +125,6 @@ the_daily_defi
 HiNeighbours
 GorillaNodes
 JamesPelton18
-nodes_ocean
 Kingdoms_fi
 driptowin
 HordeTweets
@@ -347,7 +346,7 @@ Hodl_Nodes
 TrapezaFinance
 EthaVerseDAO
 CryptoGodson
-Midas_DAO
+BlitzLabs_io
 TheBeerBlock
 0xM3rlin
 SushiSwap

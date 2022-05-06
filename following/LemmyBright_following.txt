@@ -1,3 +1,7 @@
+dreamnbsc
+theBakeryDAO
+InternDAO
+AlfaDAO_
 KamaDeFi
 HyperiumDAO
 PicksPassport
@@ -6,7 +10,6 @@ Shib2GO
 ArtemisXFinance
 Raven_DeFi
 MyRocketGlobal
-kami_protocol
 TheFarmingCo
 HuchaMoney
 milkcowftm
@@ -20,7 +23,7 @@ CroneroBSC
 Astar_Astroge
 Alnair_Finance
 kindmonkeys
-AvaCatAVAX
+roshi11381
 theMeta_Angels
 ZinguinFi
 RhinoFinance_
@@ -32,7 +35,7 @@ pandora_swap
 TheLaboratoryIO
 ape_zero
 draamy_protocol
-Monkey_Finance_
+OkayFrogs_
 AnimalsDao
 LostSamurais
 redactedcartel
@@ -52,7 +55,6 @@ BananaTFA
 CRYPTOCHARlZARD
 C4Degens
 SpearFinance_io
-Fiesta_Capital
 AquariusFinance
 Coachkcrypto
 LiberoTitano
@@ -142,7 +144,6 @@ MinerboxDefi
 Petroleum_Defi
 CryptoKingdom07
 BananaApeGarden
-nodes_ocean
 bunny_finance2
 BrawlOfLegends
 mnodefinance
@@ -183,7 +184,6 @@ EricCryptoman
 starwarsavax
 0xKinzz
 ColossusCalls
-ApexFinance2
 KIWIE1001
 Frac_rock
 YetiFinance

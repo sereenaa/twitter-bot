@@ -61,3 +61,36 @@ DazaiCrypto followed: 0xfindingajob
 ========================
 
 
+2022/05/06 11:10:02
+========================
+
+DazaiCrypto unfollowed: Exy_Nodes
+DazaiCrypto unfollowed: hoemcrypto
+DazaiCrypto unfollowed: Goldensocnodes
+DazaiCrypto unfollowed: ZeusNode
+DazaiCrypto unfollowed: SquidNodes
+DazaiCrypto unfollowed: Midas_DAO
+DazaiCrypto unfollowed: AlphasOfAVAX
+DazaiCrypto followed: OliverOnChain
+DazaiCrypto followed: BenchParkStudio
+DazaiCrypto followed: felipemr3d
+DazaiCrypto followed: DeFi_Focus
+DazaiCrypto followed: ColinLeps
+DazaiCrypto followed: AsteriaLabs
+DazaiCrypto followed: groprotocol
+DazaiCrypto followed: GollumsGems
+DazaiCrypto followed: Derekmw23
+DazaiCrypto followed: ProfessorDegen_
+DazaiCrypto followed: CCrush89
+DazaiCrypto followed: Exy_Crypto
+DazaiCrypto followed: crypthoem
+DazaiCrypto followed: gldnscty
+DazaiCrypto followed: starnodes
+DazaiCrypto followed: ZeusFinanceOrg
+DazaiCrypto followed: TruthSocialInu
+DazaiCrypto followed: BlitzLabs_io
+DazaiCrypto followed: AlphasOfAvax
+
+========================
+
+

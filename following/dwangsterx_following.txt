@@ -1,3 +1,14 @@
+blur_io
+catalogfi
+a_curious_place
+probablynthng
+SomethingToken
+NFTerps
+convexical
+0xBarry
+AmericanaNFT
+frey
+GaborCsupo
 ForeverBots
 jerrehtan
 optimismPBC
@@ -72,7 +83,7 @@ EtherNasyonaL
 Curvance
 VaderProtocol
 SperaxUSD
-hashflownetwork
+hashflow_
 kwenta_io
 CryptoHayes
 napgener

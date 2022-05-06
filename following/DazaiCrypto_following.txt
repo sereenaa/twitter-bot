@@ -1,3 +1,14 @@
+OliverOnChain
+BenchParkStudio
+felipemr3d
+DeFi_Focus
+ColinLeps
+AsteriaLabs
+groprotocol
+GollumsGems
+Derekmw23
+ProfessorDegen_
+CCrush89
 WAGMI_Dashboard
 CryptoBearWC
 losslessdefi
@@ -85,10 +96,10 @@ OnChainWizard
 Cov_duk
 Archillect_Fi
 isthispublius
-Exy_Nodes
+Exy_Crypto
 bryancolligan
 HotgunCT
-hoemcrypto
+crypthoem
 SpearFinance_io
 Darrenlautf
 PAIINBUILT
@@ -165,7 +176,7 @@ cyberscope_io
 HordeTweets
 defisyndicate
 RainShipNFT
-Goldensocnodes
+gldnscty
 wagmiboo
 HiNeighbours
 0xblockfi
@@ -268,10 +279,11 @@ smartfinanceio
 NodeWhales
 ArmorNodes
 Sins_Finance
+starnodes
 CryptoKatze
 SahilBloom
 ForkChain_io
-ZeusNode
+ZeusFinanceOrg
 PORY8ON
 MulChainCapital
 Tony_BiTiCi
@@ -320,7 +332,7 @@ elite_vault
 Hodl_Nodes
 FlameNodes
 Secret_Launch
-SquidNodes
+TruthSocialInu
 IncomeBros
 bullnodes
 danielkempe
@@ -410,7 +422,7 @@ hnt_guy
 smorin58
 gfh_geoff
 VisusFi
-Midas_DAO
+BlitzLabs_io
 defiblindape
 MikeyFergus_
 Emerald_Nodes
@@ -431,7 +443,7 @@ dev_ape
 BeMyFriendPls_
 Corkscrew_Fin
 11BuckeyeCrypto
-AlphasOfAVAX
+AlphasOfAvax
 JukeXrp
 zachologylol
 AangCrypto_33
