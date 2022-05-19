@@ -1,3 +1,18 @@
+alisajwanii
+YakuzaIncNFT
+Nomad_eth
+NFT_Astra
+gronkwizard
+Takoa
+TraderRWarthog
+dachshundwizard
+Yuri_ramen
+varan_io
+TheThorLady
+jbin_FT
+myriagames
+0xArjay
+eli5_defi
 nanoverseHQ
 degenmum
 kurorobeast
@@ -62,7 +77,6 @@ GiancarloChaux
 joincirclexyz
 projectPXN
 GHARLIERA1
-GENESIS_SENSHI
 hnt_guy
 BigMooseCrypto
 OnChainWizard
@@ -79,8 +93,6 @@ EnterTheVoidNFT
 CryptoToasters
 ElevateTrading
 StrategicHash
-defi_dojo_
-SimianNodes
 Dagnum_PI
 FreewayFi
 cryptonairz
@@ -184,6 +196,7 @@ Louverture_fi
 FrogPondClub
 stakedqueen
 Powernodes_
+Web3_Maddy
 TheCoffeeBlock
 Moarvolume
 pangolindex

@@ -5,7 +5,7 @@ GoEtherun
 GenesisNFT_ETH
 hamsterzbc
 OGrounded_
-aloramoney
+AloraMoney
 SANININU
 medusafinance_
 amano_financial
@@ -29,7 +29,6 @@ spring_gamefi
 SphereDeFi
 toastpunk
 HangryHippoNFT
-emojinu
 PrismNodes
 AssEfectivo
 Huzi_2000
@@ -41,7 +40,7 @@ ZoroCrypto_
 VeNodesOfficial
 sERC20Official
 Society_Koala
-HighPointAlpha
+HighPoint4Ever
 WSFApp
 CryptoGanggun_
 AriaToken
@@ -52,7 +51,6 @@ Hercules_Fi
 YIELDTREES_M
 fantasm_finance
 BiggerMINDS_io
-onenode_io
 FrostNodes
 SnoopDogg
 cryptofcgame
@@ -67,7 +65,7 @@ OBSilence
 defi_darling
 ApesClubFork
 IslandNodes
-PlanetNodes
+M0o0onMan
 SolarProtocol_
 RugDocIO
 economiserly
@@ -136,7 +134,7 @@ AvaxMachina
 RidesFinance
 MelissaChainz
 grndtheftbacon
-ZarinaNFT
+TerraLuna_V2
 lavanodes
 etpower2014
 BullishNodeNFT
@@ -216,7 +214,6 @@ CakedApes
 Louznft
 fbombnft
 BrainDanceNFT
-Pandaroll_nft
 starnodes
 bbvsea
 TimepieceApes
@@ -242,10 +239,9 @@ NobeliumNodes
 ValifiApp
 Great_sage5
 CroissantEth
-DustinnnETH
+SheScreamedAP
 DazaiCrypto
 grape_finance
-StrattonBWD
 avaxrockgame
 YIELDTREES
 Emerald_Nodes
