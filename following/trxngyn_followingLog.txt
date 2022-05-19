@@ -72,3 +72,12 @@ trxngyn followed: takoa
 ========================
 
 
+2022/05/17 14:45:20
+========================
+
+trxngyn unfollowed: takoa
+trxngyn followed: Takoa
+
+========================
+
+

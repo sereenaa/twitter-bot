@@ -88,9 +88,8 @@ kwenta_io
 CryptoHayes
 napgener
 LooksRareNFT
-ForkHubOfficial
 HarmonyNodes
-kryptos_news
+kryptos_co
 SphereDeFi
 fountainprot
 0xpibbles
@@ -151,7 +150,7 @@ Mudit__Gupta
 jomaoppa
 Tornado_859
 ethassa
-takoa
+Takoa
 MuriNFT
 ethersole
 hausconnect
@@ -266,7 +265,7 @@ alcabonesNFT
 catsinthecups
 vibeNFT
 jamesshedden
-SaitamaS20
+_0xSAITAMA
 jayohhvee1
 CL207
 dartnfts

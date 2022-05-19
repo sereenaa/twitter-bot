@@ -1,3 +1,18 @@
+_SimpleSlots
+terra_money
+0xCheck
+CryptosEngineer
+knowerofmarkets
+SecretsOfCrypto
+TaschaLabs
+saylor
+CryptoCapo_
+trader1sz
+ZssBecker
+usddio
+justinsuntron
+jonwu_
+sophie_koji
 FitmintClub
 JUMPNofficial
 RunTogether_Nft
@@ -48,7 +63,7 @@ layer3xyz
 StepApp_
 punk9059
 Aleph__Zero
-EcosseCEL1
+EcosseYIELD
 Cov_duk
 OthersideMeta
 StrategicHash
@@ -111,8 +126,7 @@ CrossChainAlex
 safulibero
 WolfOfAvax_
 finance_medusa
-HighPointAlpha
-AURAuroraFi
+HighPoint4Ever
 PaladinArmy_
 YieldZilla_
 caesarfinance_
@@ -251,7 +265,7 @@ ArcToken
 dairydotmoney
 SpookyverseFi
 jomaoppa
-PabloTreff
+PabloTLDR
 MIMiverseAVAX
 coolcatsnft
 zachxbt

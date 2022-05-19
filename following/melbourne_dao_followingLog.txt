@@ -191,3 +191,32 @@ melbourne_dao followed: HighPointAlpha
 ========================
 
 
+2022/05/17 14:36:31
+========================
+
+melbourne_dao unfollowed: EcosseCEL1
+melbourne_dao unfollowed: HighPointAlpha
+melbourne_dao unfollowed: AURAuroraFi
+melbourne_dao unfollowed: PabloTreff
+melbourne_dao followed: _SimpleSlots
+melbourne_dao followed: terra_money
+melbourne_dao followed: 0xCheck
+melbourne_dao followed: CryptosEngineer
+melbourne_dao followed: knowerofmarkets
+melbourne_dao followed: SecretsOfCrypto
+melbourne_dao followed: TaschaLabs
+melbourne_dao followed: saylor
+melbourne_dao followed: CryptoCapo_
+melbourne_dao followed: trader1sz
+melbourne_dao followed: ZssBecker
+melbourne_dao followed: usddio
+melbourne_dao followed: justinsuntron
+melbourne_dao followed: jonwu_
+melbourne_dao followed: sophie_koji
+melbourne_dao followed: EcosseYIELD
+melbourne_dao followed: HighPoint4Ever
+melbourne_dao followed: PabloTLDR
+
+========================
+
+
