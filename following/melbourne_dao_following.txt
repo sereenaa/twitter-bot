@@ -1,3 +1,13 @@
+Sykodelic_
+CosmosEcosystem
+Composite_Money
+pierre_crypt0
+apexnodes
+Finnovant
+okaybears
+Trader_XO
+FinanceChainge
+ChargeDeFi
 _SimpleSlots
 terra_money
 0xCheck
@@ -186,7 +196,7 @@ Prometheus_DEFI
 1PercentNodes
 0xZenpai
 AlienNodes
-starnodes
+TheAlliance_NFT
 DeFi_Diligence
 RidesFinance
 smartfinanceio
@@ -265,7 +275,6 @@ ArcToken
 dairydotmoney
 SpookyverseFi
 jomaoppa
-PabloTLDR
 MIMiverseAVAX
 coolcatsnft
 zachxbt
@@ -392,7 +401,6 @@ JRNYclub
 SpeculatorArt
 TheSandboxGame
 crispylines
-Zer0_Alpha_
 NFTzyBoi
 opensea
 richerd

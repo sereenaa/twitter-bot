@@ -1,3 +1,8 @@
+wolferfinance
+veecon
+Bitislands_
+0xsmac
+numerai
 BabylonFinance
 ScarletSijia
 richardcraib
@@ -176,7 +181,7 @@ shivsakhuja
 OracleProtocol_
 TimoJenzer
 theLongWick
-tuesdaygraphics
+tuesdaymarketer
 CryptoKingdom07
 IslandNodes
 0xLosingMoney
@@ -289,7 +294,7 @@ smartfinanceio
 NodeWhales
 ArmorNodes
 Sins_Finance
-starnodes
+TheAlliance_NFT
 CryptoKatze
 SahilBloom
 ForkChain_io
@@ -570,7 +575,6 @@ VaderProtocol
 archiepumper
 UmamiFinance
 NodeBaron
-PrometheusHEC
 cyron879
 cryptoadamx
 phtevenstrong
