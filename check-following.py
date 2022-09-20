@@ -6,6 +6,7 @@ import time
 from twython import Twython
 import argparse
 from keys import api
+import tweepy
 
 parser = argparse.ArgumentParser(description = "Parse the arguments", formatter_class = argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument("-u", "--twitter_username", required=True, help = "Twitter Username")
@@ -20,7 +21,10 @@ twitter = Twython(
 	api['token_secret'] #OAUTH_TOKEN_SECRET
 )
 
-
+# set up tweepy
+auth = tweepy.OAuthHandler(api['key'], api['secret'])
+auth.set_access_token(api['token'], api['token_secret'])
+api = tweepy.API(auth)
 
 global theFile
 theFile = "following/%s_following.txt" % twitter_username
@@ -41,6 +45,9 @@ def get_following(SCREEN_NAME):
 	twitter_following = twitter.get_friends_ids(
 		screen_name=SCREEN_NAME
 	)
+
+	# using tweepy
+	# twitter_following = api.friends_ids(screen_name=SCREEN_NAME)
 	
 	# create local variable following and assign it to an empty array
 	following = []
@@ -51,6 +58,11 @@ def get_following(SCREEN_NAME):
 		following.append(
 			data["screen_name"]
 		)
+
+	# using tweepy
+	# for x in twitter_following:
+	# 	data = api.get_user(x).screen_name
+	# 	following.append(data)
 	
 	# return the array of followings
 	return following
