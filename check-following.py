@@ -16,8 +16,8 @@ global twitter
 twitter = Twython(
 	api['key'],
 	api['secret'],
-	api['token'],
-	api['token_secret']
+	api['token'], # OAUTH_TOKEN
+	api['token_secret'] #OAUTH_TOKEN_SECRET
 )
 
 

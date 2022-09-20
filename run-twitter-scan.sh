@@ -2,6 +2,6 @@
 
 for i in $(cat name-list.txt) 
 do
-	sleep 120
+	sleep 10
 	python3 check-following.py -u $i
 done

@@ -17,6 +17,7 @@ NameError: name 'uVAbgGZ9q5OS7EZ04zQjKNsEk' is not defined
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 NameError: name 'oauth_verifier' is not defined
+>>> auth['auth_url']
 >>> final_step = twitter.get_authorized_tokens(1020576) 
 >>> final_step['oauth_token']
 '618974114-qkkFbpFoxq8SVd2wp961iVbLtiZ1CQJNK0NSfxkf'
