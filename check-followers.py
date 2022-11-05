@@ -47,7 +47,11 @@ def get_followers(SCREEN_NAME):
 	
 	# get the list of followers and put them into the followers array
 	for x in twitter_followers["ids"]:
-		data = twitter.show_user(user_id=x)
+		try: 
+			data = twitter.show_user(user_id=x)
+		except (TwythonError, e):
+			if e.error_code == 403:
+				pass 
 		followers.append(
 			data["screen_name"]
 		)
