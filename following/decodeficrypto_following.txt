@@ -111,7 +111,7 @@ divaprotocol_io
 0xHashstack
 nethermindeth
 daddysether
-StarkNetFndn
+StarknetFndn
 DevenMat
 OpenChat
 TimeswapLabs
@@ -259,7 +259,7 @@ Meeiro_xyz
 ComdexOfficial
 andrewsaunders
 Cosmos_Tic
-getswype
+deepshardorg
 WombexFinance
 babylon_chain
 LefKok
