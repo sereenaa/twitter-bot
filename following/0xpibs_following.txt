@@ -34,7 +34,6 @@ DigitsDao
 Louround_
 BillyBobBaghold
 TridentDAO
-y2kfinance
 InfPools
 SerGovance
 Bxn_W
