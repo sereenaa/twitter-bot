@@ -1,3 +1,5 @@
+UnidentifiedDao
+ChronosFi_
 ClearpoolFin
 Credix_finance
 0xagarwal
@@ -106,7 +108,7 @@ BLBprotocol
 economiserly
 0xAnyaa
 ValidationCloud
-flrfinance
+enosys_global
 maplefinance
 RealDegenGMX
 0xPrado
