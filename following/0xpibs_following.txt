@@ -1,3 +1,7 @@
+cryptodetweiler
+LumidaWealth
+ramahluwalia
+Armadillo_ILP
 UnidentifiedDao
 ChronosFi_
 ClearpoolFin
@@ -26,7 +30,6 @@ AboutDefi
 NotionalFinance
 DimensionalsRPG
 TheChadsClub
-0xOrangeFinance
 FungiAlpha
 LexerMarkets
 TheDeFISaint
@@ -132,7 +135,6 @@ KwaiGMI
 joeknee4
 B0SSbran
 jaydenkai99
-LiquityProtocol
 yasinatra_
 JUUNI_Official
 OckupyAlpha
