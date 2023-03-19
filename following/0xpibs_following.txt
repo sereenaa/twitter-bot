@@ -1,3 +1,6 @@
+Spartadex_io
+llamadotfi
+JeffSnider_AIP
 cryptodetweiler
 LumidaWealth
 ramahluwalia
@@ -60,7 +63,7 @@ crypto_linn
 phuture_finance
 phtevenstrong
 Chinchillah_
-tender_fi
+Tender_fi
 FluxDeFi
 OndoFinance
 DigitalDoka
