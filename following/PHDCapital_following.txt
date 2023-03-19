@@ -1,3 +1,7 @@
+tensor_hq
+coinbase
+BuildOnBase
+lookonchain
 ProofOfSampson
 flamestore_xyz
 OmniX_NFT

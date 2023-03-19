@@ -4350,3 +4350,119 @@ decodeficrypto followed: BlockAttorney
 ========================
 
 
+
+========================
+
+
+2023/03/20 08:33:57
+========================
+
+decodeficrypto unfollowed: 0xKickflip
+decodeficrypto unfollowed: Aptos_Alpha
+decodeficrypto followed: TheDPSproject
+decodeficrypto followed: 0xDoubleSharp
+decodeficrypto followed: CryptoEdgar_
+decodeficrypto followed: crypto_yuvi
+decodeficrypto followed: Altpha_
+
+========================
+
+
+2023/03/20 09:04:28
+========================
+
+OlimpioCrypto unfollowed: paraswap
+OlimpioCrypto unfollowed: siddiqui71
+OlimpioCrypto unfollowed: nosleepjon
+OlimpioCrypto unfollowed: its_airdrop
+OlimpioCrypto unfollowed: MIM_Replenishes
+OlimpioCrypto unfollowed: MyAlphaDrops
+OlimpioCrypto unfollowed: spactivistdao
+OlimpioCrypto unfollowed: triangulair
+OlimpioCrypto unfollowed: bazzler5
+OlimpioCrypto unfollowed: StarnyDeFi
+OlimpioCrypto unfollowed: tarunchitra
+OlimpioCrypto unfollowed: oxmanta
+OlimpioCrypto unfollowed: zksync
+OlimpioCrypto unfollowed: elliotrades
+OlimpioCrypto unfollowed: zkSync_cn
+OlimpioCrypto unfollowed: weirddalle
+OlimpioCrypto unfollowed: arbitrum
+OlimpioCrypto unfollowed: OptimismGov
+OlimpioCrypto unfollowed: tztokchad
+OlimpioCrypto unfollowed: chad_follows
+OlimpioCrypto unfollowed: CroissantEth
+OlimpioCrypto unfollowed: Joshyysmartt
+OlimpioCrypto unfollowed: zqn326
+OlimpioCrypto unfollowed: AngleProtocol
+OlimpioCrypto unfollowed: ModestRebirth
+OlimpioCrypto unfollowed: axuwv
+OlimpioCrypto unfollowed: DeFi_LATAM
+OlimpioCrypto unfollowed: TrustlessState
+OlimpioCrypto unfollowed: 0xngmi
+OlimpioCrypto followed: patrickbetdavid
+OlimpioCrypto followed: zerohedge
+OlimpioCrypto followed: financialjuice
+OlimpioCrypto followed: coinbase
+OlimpioCrypto followed: jerallaire
+OlimpioCrypto followed: circle
+OlimpioCrypto followed: StarknetFndn
+OlimpioCrypto followed: stephsmithio
+OlimpioCrypto followed: jphackworth42
+OlimpioCrypto followed: leadinscientist
+OlimpioCrypto followed: ImperiumPaper
+OlimpioCrypto followed: CeSanz1
+OlimpioCrypto followed: FreightAlley
+OlimpioCrypto followed: onepiecefanb
+OlimpioCrypto followed: rsrosabio
+OlimpioCrypto followed: davidcardenasus
+OlimpioCrypto followed: 0xHath
+OlimpioCrypto followed: maxifirtman
+OlimpioCrypto followed: AlienXBT
+OlimpioCrypto followed: mynameiswriter
+OlimpioCrypto followed: Suhail
+OlimpioCrypto followed: voxel_eth
+OlimpioCrypto followed: adam3us
+OlimpioCrypto followed: MattLosquadro
+OlimpioCrypto followed: Christafarious
+OlimpioCrypto followed: bobbyong
+OlimpioCrypto followed: fourpoops
+OlimpioCrypto followed: MartinLitwak
+OlimpioCrypto followed: MohammedTunkar4
+OlimpioCrypto followed: CJCJCJCJ_
+OlimpioCrypto followed: CryptoShiro_
+OlimpioCrypto followed: FedeTemari
+OlimpioCrypto followed: TheDeFISaint
+OlimpioCrypto followed: jnptzl
+OlimpioCrypto followed: markjenney
+OlimpioCrypto followed: realDonaldTrump
+OlimpioCrypto followed: Goodwoolsociety
+OlimpioCrypto followed: Cobratate
+OlimpioCrypto followed: AlgodTrading
+OlimpioCrypto followed: davidgoggins
+OlimpioCrypto followed: theRealKiyosaki
+OlimpioCrypto followed: DylanLeClair_
+OlimpioCrypto followed: myAlphaDrops
+OlimpioCrypto followed: 0xStarny
+OlimpioCrypto followed: mantadefi
+OlimpioCrypto followed: chadfollows
+OlimpioCrypto followed: zy3crypto
+OlimpioCrypto followed: 0xlonetree
+OlimpioCrypto followed: SEEDLatam
+OlimpioCrypto followed: SRFlip
+OlimpioCrypto followed: WhaleWire
+
+========================
+
+
+2023/03/20 09:12:24
+========================
+
+PHDCapital followed: tensor_hq
+PHDCapital followed: coinbase
+PHDCapital followed: BuildOnBase
+PHDCapital followed: lookonchain
+
+========================
+
+

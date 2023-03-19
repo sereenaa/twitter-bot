@@ -1,3 +1,6 @@
+TheDPSproject
+0xDoubleSharp
+CryptoEdgar_
 BlockAttorney
 DankMemeCapital
 SonneFinance
@@ -19,7 +22,7 @@ MyMetaTrader
 Equalizer0x
 TridentDAO
 RoseonExchange
-0xKickflip
+crypto_yuvi
 renegade_fi
 starkpunks_nft
 Rodeo_Finance
@@ -302,7 +305,7 @@ Mayhem4Markets
 ZssBecker
 zkxprotocol
 Airdrops_one
-Aptos_Alpha
+Altpha_
 axelarcore
 hansondotso
 Empo_Fi
