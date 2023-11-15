@@ -1,12 +1,20 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #import os.path
+from dotenv import load_dotenv
 import os
 import time
 from twython import Twython
 import argparse
-from keys import api
 import tweepy
+
+
+load_dotenv()
+API_KEY=os.environ['TWITTER_API_KEY']
+API_SECRET=os.environ['TWITTER_API_SECRET']
+API_TOKEN=os.environ['TWITTER_API_TOKEN']
+API_TOKEN_SECRET=os.environ['TWITTER_API_TOKEN_SECRET']
+
 
 parser = argparse.ArgumentParser(description = "Parse the arguments", formatter_class = argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument("-u", "--twitter_username", required=True, help = "Twitter Username")
@@ -14,12 +22,7 @@ args = parser.parse_args()
 twitter_username = args.twitter_username
 
 global twitter
-twitter = Twython(
-	api['key'],
-	api['secret'],
-	api['token'], # OAUTH_TOKEN
-	api['token_secret'] #OAUTH_TOKEN_SECRET
-)
+twitter = Twython(API_KEY, API_SECRET, API_TOKEN, API_TOKEN_SECRET)
 
 # set up tweepy
 auth = tweepy.OAuthHandler(api['key'], api['secret'])
