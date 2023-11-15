@@ -1,25 +1,66 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #import os.path
-import os
-import time
-from twython import Twython
 import argparse
-from keys import api
+from dotenv import load_dotenv
+import os
+import requests
+from requests_oauthlib import OAuth1
+import time
+import tweepy
+from TwitterAPI import TwitterAPI
+from twython import Twython
+
+load_dotenv()
+API_KEY=os.environ['TWITTER_API_KEY']
+API_SECRET=os.environ['TWITTER_API_SECRET']
+API_TOKEN=os.environ['TWITTER_API_TOKEN']
+API_TOKEN_SECRET=os.environ['TWITTER_API_TOKEN_SECRET']
+
+oauth = OAuth1(API_KEY,
+               client_secret=API_SECRET,
+               resource_owner_key=API_TOKEN,
+               resource_owner_secret=API_TOKEN_SECRET)
 
 parser = argparse.ArgumentParser(description = "Parse the arguments", formatter_class = argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument("-u", "--twitter_username", required=True, help = "Twitter Username")
 args = parser.parse_args()
 twitter_username = args.twitter_username
 
-global twitter
-twitter = Twython(
-	api['key'],
-	api['secret'],
-	api['token'],
-	api['token_secret']
-)
 
+def get_user_id(username):
+    url = f"https://api.twitter.com/2/users/by/username/{username}"
+    response = requests.get(url, auth=oauth)
+    if response.status_code != 200:
+        raise Exception(f"Request failed: {response.status_code}")
+    data = response.json()
+    return data['data']['id']
+
+def get_following(user_id):
+    url = f"https://api.twitter.com/2/users/{user_id}/following"
+    response = requests.get(url, auth=oauth)
+    if response.status_code != 200:
+        raise Exception(f"Request failed: {response.status_code}")
+    data = response.json()
+    following = [user['username'] for user in data['data']]
+    return following
+
+# Define the username you're interested in
+username = '0xpibs'
+
+# Get the user ID for the specified username
+user_id = get_user_id(username)
+
+# Get the list of users the specified user is following
+following = get_following(user_id)
+print(following)
+
+
+
+
+
+global twitter
+twitter = Twython(API_KEY, API_SECRET, API_TOKEN, API_TOKEN_SECRET, api_version='2')
 
 
 global theFile
@@ -35,29 +76,32 @@ def log(text):
 	logFile2.write(text + "\n")
 	logFile2.close()
 
-def get_followers(SCREEN_NAME):
+
+
+# def get_followers(SCREEN_NAME):
 	
-	# get the list of twitter followers
-	twitter_followers = twitter.get_followers_ids(
-		screen_name=SCREEN_NAME
-	)
+# 	# get the list of twitter followers
+# 	# twitter_followers = twitter.get_followers_ids(screen_name=SCREEN_NAME)
+# 	twitter_followers = twitter.get_friends_ids(screen_name=SCREEN_NAME)
 	
-	# create local variable followers and assign it to an empty array
-	followers = []
+# 	# create local variable followers and assign it to an empty array
+# 	followers = []
 	
-	# get the list of followers and put them into the followers array
-	for x in twitter_followers["ids"]:
-		try: 
-			data = twitter.show_user(user_id=x)
-		except (TwythonError, e):
-			if e.error_code == 403:
-				pass 
-		followers.append(
-			data["screen_name"]
-		)
+# 	# get the list of followers and put them into the followers array
+# 	for x in twitter_followers["ids"]:
+# 		try: 
+# 			data = twitter.show_user(user_id=x)
+# 		except (TwythonError, e):
+# 			if e.error_code == 403:
+# 				pass 
+# 		followers.append(
+# 			data["screen_name"]
+# 		)
 	
-	# return the array of followers
-	return followers
+# 	# return the array of followers
+# 	return followers
+
+
 
 
 # create the follower lists that are to be compared
